@@ -182,7 +182,7 @@ inq.prompt([
     },
     {
         type: 'input',
-        message: 'Which email address should people use to contact you with issues?',
+        message: 'Which email address should people use to contact you with questions or concerns?',
         name: 'email',
         validate: email => {
             return (email.length > 4 && email.includes('@') && email.includes('.')) || "Please enter a proper email address.";
