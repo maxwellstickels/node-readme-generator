@@ -1,7 +1,7 @@
 # Sample README Title (required)
 
 ## Link to Access
-* [Sample README Title (required) Live Webpage](www.google.com)
+* [Sample README Title (required) Live Webpage](https://www.google.com)
 
 ## Table of Contents
 * [Description](#description)
